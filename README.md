@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm David
 
-Welcome to my little corner of GitHub! I'm a Software Developer who loves tinkering with Python, Distributed Systems, Backend Development,and Data Engineering. I spend my time building scalable systems, optimizing performance, and diving into AI/ML when I get the chance.
+Welcome to my little corner of GitHub! I'm a Software Developer passionate about Python, Distributed Systems, Backend Development,and Data Engineering. I spend my time building scalable systems, optimizing performance, and diving into AI/ML when I get the chance.
 
 ### ⚡ Technologies I Work With
 
